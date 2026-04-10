@@ -1,5 +1,5 @@
 {
-  "description": "Digital Technologies capability progression map \u2014 Processes and Production Skills strand, Foundation to Y9-10. Band-based capability maturation sequences across six sub-strands.",
+  "description": "Digital Technologies capability progression map \u2014 Processes and Production Skills strand, Foundation to Y9-10. Strictly follows ACARA v9 sub-strand headings. Band-based: F, Y1-2, Y3-4, Y5-6, Y7-8, Y9-10.",
   "subject": "Digital Technologies",
   "curriculum": "ACARA v9",
   "levels": {
@@ -21,7 +21,7 @@
       "standards": [
         {
           "code": "AC9TDI2P01",
-          "title": "Investigate simple problems",
+          "title": "Investigate problems for users",
           "description": "Investigate simple problems for known users that can be solved with digital systems",
           "capability_goal": "Students investigate simple problems for known users that can be solved with digital systems.",
           "sub_strand": "investigating_defining",
@@ -32,7 +32,7 @@
           "title": "Follow algorithms with branching",
           "description": "Follow and describe algorithms involving a sequence of steps, branching (decisions) and iteration (repetition)",
           "capability_goal": "Students follow and describe algorithms involving sequences, branching and iteration.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_algorithms",
           "level_key": "1-2"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
           "code": "AC9TDI2P04",
-          "title": "Use digital tools to create content",
+          "title": "Create and communicate content",
           "description": "Use the basic features of common digital tools to create, locate and communicate content",
           "capability_goal": "Students use basic features of digital tools to create, locate and communicate content.",
           "sub_strand": "collaborating_managing",
@@ -53,7 +53,7 @@
         },
         {
           "code": "AC9TDI2P05",
-          "title": "Share content safely online",
+          "title": "Share content and collaborate",
           "description": "Use the basic features of common digital tools to share content and collaborate demonstrating agreed behaviours, guided by trusted adults",
           "capability_goal": "Students use basic features of digital tools to share content and collaborate, demonstrating agreed behaviours guided by trusted adults.",
           "sub_strand": "collaborating_managing",
@@ -93,7 +93,7 @@
           "title": "Describe algorithms with operators",
           "description": "Follow and describe algorithms involving sequencing, comparison operators (branching) and iteration",
           "capability_goal": "Students follow and describe algorithms involving sequencing, comparison operators and iteration.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_algorithms",
           "level_key": "3-4"
         },
         {
@@ -101,7 +101,7 @@
           "title": "Generate and compare designs",
           "description": "Generate, communicate and compare designs",
           "capability_goal": "Students generate, communicate and compare design ideas.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_solutions",
           "level_key": "3-4"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "code": "AC9TDI4P06",
-          "title": "Use digital tools with conventions",
+          "title": "Create content with conventions",
           "description": "Use the core features of common digital tools to create, locate and communicate content, following agreed conventions",
           "capability_goal": "Students use core features of digital tools to create, locate and communicate content, following agreed conventions.",
           "sub_strand": "collaborating_managing",
@@ -130,7 +130,7 @@
         },
         {
           "code": "AC9TDI4P07",
-          "title": "Collaborate and plan digitally",
+          "title": "Plan tasks and collaborate",
           "description": "Use the core features of common digital tools to share content, plan tasks, and collaborate, following agreed behaviours, supported by trusted adults",
           "capability_goal": "Students use core features of digital tools to share content, plan tasks and collaborate, following agreed behaviours.",
           "sub_strand": "collaborating_managing",
@@ -140,7 +140,7 @@
           "code": "AC9TDI4P08",
           "title": "Memorised passwords",
           "description": "Access their school account using a memorised password and explain why it should be easy to remember, but hard for others to guess",
-          "capability_goal": "Students access accounts using memorised passwords and explain what makes a password strong.",
+          "capability_goal": "Students access accounts using memorised passwords and explain what makes a strong password.",
           "sub_strand": "privacy_security",
           "level_key": "3-4"
         },
@@ -170,7 +170,7 @@
           "title": "Design algorithms with iteration",
           "description": "Design algorithms involving multiple alternatives (branching) and iteration",
           "capability_goal": "Students design algorithms involving multiple branching alternatives and iteration.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_algorithms",
           "level_key": "5-6"
         },
         {
@@ -178,7 +178,7 @@
           "title": "Design a user interface",
           "description": "Design a user interface for a digital system",
           "capability_goal": "Students design a user interface for a digital system.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_solutions",
           "level_key": "5-6"
         },
         {
@@ -186,7 +186,7 @@
           "title": "Generate, modify and evaluate designs",
           "description": "Generate, modify, communicate and evaluate designs",
           "capability_goal": "Students generate, modify, communicate and evaluate design ideas.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_solutions",
           "level_key": "5-6"
         },
         {
@@ -233,7 +233,7 @@
           "code": "AC9TDI6P10",
           "title": "Digital footprint and privacy",
           "description": "Explain the creation and permanence of their digital footprint and consider privacy when collecting user data",
-          "capability_goal": "Students explain how their digital footprint is created and is permanent, and consider privacy when collecting user data.",
+          "capability_goal": "Students explain how their digital footprint is created and permanent, and consider privacy when collecting user data.",
           "sub_strand": "privacy_security",
           "level_key": "5-6"
         }
@@ -247,7 +247,7 @@
           "title": "Acquire and validate data",
           "description": "Acquire, store and validate data from a range of sources using software, including spreadsheets and databases",
           "capability_goal": "Students acquire, store and validate data from a range of sources using spreadsheets and databases.",
-          "sub_strand": "acquiring_data",
+          "sub_strand": "managing_data",
           "level_key": "7-8"
         },
         {
@@ -255,7 +255,7 @@
           "title": "Analyse and visualise data",
           "description": "Analyse and visualise data using a range of software, including spreadsheets and databases, to draw conclusions and make predictions by identifying trends",
           "capability_goal": "Students analyse and visualise data using software to draw conclusions and make predictions by identifying trends.",
-          "sub_strand": "acquiring_data",
+          "sub_strand": "managing_data",
           "level_key": "7-8"
         },
         {
@@ -263,7 +263,7 @@
           "title": "Model structured data",
           "description": "Model and query the attributes of objects and events using structured data",
           "capability_goal": "Students model and query the attributes of objects and events using structured data.",
-          "sub_strand": "acquiring_data",
+          "sub_strand": "modelling_data",
           "level_key": "7-8"
         },
         {
@@ -278,8 +278,8 @@
           "code": "AC9TDI8P05",
           "title": "Design nested algorithms",
           "description": "Design algorithms involving nested control structures and represent them using flowcharts and pseudocode",
-          "capability_goal": "Students design algorithms with nested control structures, representing them in flowcharts and pseudocode.",
-          "sub_strand": "generating_designing",
+          "capability_goal": "Students design algorithms with nested control structures represented in flowcharts and pseudocode.",
+          "sub_strand": "designing_algorithms",
           "level_key": "7-8"
         },
         {
@@ -287,7 +287,7 @@
           "title": "Trace algorithms for errors",
           "description": "Trace algorithms to predict output for a given input and to identify errors",
           "capability_goal": "Students trace algorithms to predict output and identify errors.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_algorithms",
           "level_key": "7-8"
         },
         {
@@ -295,7 +295,7 @@
           "title": "Design user experience",
           "description": "Design the user experience of a digital system",
           "capability_goal": "Students design the user experience of a digital system.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_solutions",
           "level_key": "7-8"
         },
         {
@@ -303,7 +303,7 @@
           "title": "Generate and evaluate designs",
           "description": "Generate, modify, communicate and evaluate alternative designs",
           "capability_goal": "Students generate, modify, communicate and evaluate alternative designs.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_solutions",
           "level_key": "7-8"
         },
         {
@@ -326,7 +326,7 @@
           "code": "AC9TDI8P11",
           "title": "Use digital tools efficiently",
           "description": "Select and use a range of digital tools efficiently, including unfamiliar features, to create, locate and communicate content, consistently applying common conventions",
-          "capability_goal": "Students select and use digital tools efficiently, including unfamiliar features, consistently applying conventions.",
+          "capability_goal": "Students select and use digital tools efficiently including unfamiliar features, consistently applying conventions.",
           "sub_strand": "collaborating_managing",
           "level_key": "7-8"
         },
@@ -364,7 +364,7 @@
           "title": "Develop data acquisition techniques",
           "description": "Develop techniques to acquire, store and validate data from a range of sources using software, including spreadsheets and databases",
           "capability_goal": "Students develop techniques to acquire, store and validate data from a range of sources using spreadsheets and databases.",
-          "sub_strand": "acquiring_data",
+          "sub_strand": "managing_data",
           "level_key": "9-10"
         },
         {
@@ -372,7 +372,7 @@
           "title": "Analyse data interactively",
           "description": "Analyse and visualise data interactively using a range of software, including spreadsheets and databases, to draw conclusions and make predictions by identifying trends and outliers",
           "capability_goal": "Students analyse and visualise data interactively to draw conclusions and make predictions, identifying trends and outliers.",
-          "sub_strand": "acquiring_data",
+          "sub_strand": "managing_data",
           "level_key": "9-10"
         },
         {
@@ -380,7 +380,7 @@
           "title": "Model entity relationships",
           "description": "Model and query entities and their relationships using structured data",
           "capability_goal": "Students model and query entities and their relationships using structured data.",
-          "sub_strand": "acquiring_data",
+          "sub_strand": "modelling_data",
           "level_key": "9-10"
         },
         {
@@ -395,8 +395,8 @@
           "code": "AC9TDI10P05",
           "title": "Design algorithms with logic",
           "description": "Design algorithms involving logical operators and represent them as flowcharts and pseudocode",
-          "capability_goal": "Students design algorithms involving logical operators and represent them as flowcharts and pseudocode.",
-          "sub_strand": "generating_designing",
+          "capability_goal": "Students design algorithms involving logical operators represented as flowcharts and pseudocode.",
+          "sub_strand": "designing_algorithms",
           "level_key": "9-10"
         },
         {
@@ -404,7 +404,7 @@
           "title": "Validate with test cases",
           "description": "Validate algorithms and programs by comparing their output against a range of test cases",
           "capability_goal": "Students validate algorithms and programs by comparing output against a range of test cases.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_algorithms",
           "level_key": "9-10"
         },
         {
@@ -412,7 +412,7 @@
           "title": "Design and prototype UX",
           "description": "Design and prototype the user experience of a digital system",
           "capability_goal": "Students design and prototype the user experience of a digital system.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_solutions",
           "level_key": "9-10"
         },
         {
@@ -420,7 +420,7 @@
           "title": "Critically evaluate designs",
           "description": "Generate, modify, communicate and critically evaluate alternative designs",
           "capability_goal": "Students generate, modify, communicate and critically evaluate alternative designs.",
-          "sub_strand": "generating_designing",
+          "sub_strand": "designing_solutions",
           "level_key": "9-10"
         },
         {
@@ -475,11 +475,31 @@
     }
   },
   "capability_threads": {
-    "description": "Linear capability maturation sequences per sub-strand. Band-based \u2014 one node per band. Sequences ordered earliest to latest.",
+    "description": "Linear capability maturation sequences per sub-strand, strictly following ACARA v9 sub-strand headings. Band-based F through Y9-10.",
     "strands": {
       "processes_production": {
         "label": "Processes and Production Skills",
         "sub_strands": {
+          "managing_data": {
+            "label": "Managing data",
+            "short_label": "Managing data",
+            "color": "#B06010",
+            "sequence": [
+              "AC9TDI8P01",
+              "AC9TDI8P02",
+              "AC9TDI10P01",
+              "AC9TDI10P02"
+            ]
+          },
+          "modelling_data": {
+            "label": "Modelling data",
+            "short_label": "Modelling data",
+            "color": "#8B5E0A",
+            "sequence": [
+              "AC9TDI8P03",
+              "AC9TDI10P03"
+            ]
+          },
           "investigating_defining": {
             "label": "Investigating and defining",
             "short_label": "Investigating",
@@ -492,23 +512,30 @@
               "AC9TDI10P04"
             ]
           },
-          "generating_designing": {
-            "label": "Generating and designing",
-            "short_label": "Generating",
+          "designing_algorithms": {
+            "label": "Designing algorithms",
+            "short_label": "Designing algorithms",
             "color": "#1E8A5A",
             "sequence": [
               "AC9TDI2P02",
               "AC9TDI4P02",
-              "AC9TDI4P03",
               "AC9TDI6P02",
-              "AC9TDI6P03",
-              "AC9TDI6P04",
               "AC9TDI8P05",
               "AC9TDI8P06",
+              "AC9TDI10P05",
+              "AC9TDI10P06"
+            ]
+          },
+          "designing_solutions": {
+            "label": "Designing solutions",
+            "short_label": "Designing solutions",
+            "color": "#3A7DBF",
+            "sequence": [
+              "AC9TDI4P03",
+              "AC9TDI6P03",
+              "AC9TDI6P04",
               "AC9TDI8P07",
               "AC9TDI8P08",
-              "AC9TDI10P05",
-              "AC9TDI10P06",
               "AC9TDI10P07",
               "AC9TDI10P08"
             ]
@@ -522,19 +549,6 @@
               "AC9TDI6P05",
               "AC9TDI8P09",
               "AC9TDI10P09"
-            ]
-          },
-          "acquiring_data": {
-            "label": "Acquiring, managing and analysing data",
-            "short_label": "Acquiring data",
-            "color": "#B06010",
-            "sequence": [
-              "AC9TDI8P01",
-              "AC9TDI8P02",
-              "AC9TDI8P03",
-              "AC9TDI10P01",
-              "AC9TDI10P02",
-              "AC9TDI10P03"
             ]
           },
           "evaluating": {
@@ -568,7 +582,7 @@
           },
           "privacy_security": {
             "label": "Privacy and security",
-            "short_label": "Privacy",
+            "short_label": "Privacy & security",
             "color": "#1A6E82",
             "sequence": [
               "AC9TDIFP01",
@@ -587,5 +601,10 @@
         }
       }
     }
+  },
+  "_notes": {
+    "generating_designing_split": "ACARA groups algorithm design and solution design under 'Generating and designing'. This map splits them into 'Designing algorithms' (computational/logic focus) and 'Designing solutions' (UI/UX/design ideas focus) to reflect the computational thinking vs design thinking distinction in ACARA core concepts and to keep node counts manageable per band.",
+    "naming": "digital_tech_capability_map.json",
+    "acquiring_data_split": "ACARA's 'Acquiring, managing and analysing data' split into 'Managing data' (acquire, store, validate, analyse, visualise \u2014 P01/P02) and 'Modelling data' (structured data, entities, relationships \u2014 P03) to keep node counts manageable and reflect the conceptual distinction."
   }
 }
